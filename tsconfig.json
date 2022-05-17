@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "rootDir": "./src",
+      "outDir": "./build",
+      "allowJs": true,
+      "target": "es2017",
+      "module": "EsNext",
+      "strict": true,
+      "esModuleInterop": true,
+      "moduleResolution":"Node"
+    },
+    "include": ["./src/**/*"]
+}
